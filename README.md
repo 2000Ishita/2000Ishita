@@ -13,7 +13,7 @@ I'm currently a Senior Software Developer at Persistent Systems, with expertise 
 
 - 🌱 **Constantly learning** and exploring new domains like **Generative AI** and **Cloud Computing**.
 - 💼 I’ve had the opportunity to contribute to multiple projects ranging from **AI-driven resume analysis** to **Salesforce optimization for global clients**.
-- 📚 Certified in **AI, Salesforce**, and **Cybersecurity** – a lifelong learner with a CGPA of **9.2** in Computer Science & Engineering.
+- 📚 Certified in **AI, Salesforce**, and **Cybersecurity** 
 
 ---
 
@@ -87,6 +87,16 @@ Developed backend infrastructure for a B2B credit analysis fintech solution by a
 
 ---
 
+### Multi-modal Detection of Depression and Suicidal Tendencies from Social Media  
+Developed a website that detects depression or suicidal tendencies from social media inputs and alerts emergency contacts.
+
+- Developed front-end (HTML, CSS, JS) and back-end (SpringBoot, MongoDB), trained ML models in Python, and hosted on Google Cloud.
+- Coordinated with team members and managed communication with teachers, demonstrating leadership skills.
+
+**Tech Stack:** Java, SpringBoot, MySQL, Python, Machine Learning
+
+---
+
 ## 🎓 Certifications
 - **Google Cybersecurity Professional Certificate**
 - **Salesforce Certified Platform Developer I**
@@ -99,7 +109,6 @@ Developed backend infrastructure for a B2B credit analysis fintech solution by a
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/ishita-dutta-india/)
 - 🌐 [Personal Website](https://www.ishitaduttablogs.com/)
-- 📧 [Email](mailto:ishita.dutta.kolkata@gmail.com)
 
 ---
 

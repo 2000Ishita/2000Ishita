@@ -1,5 +1,5 @@
 
-# Hi there, I'm Ishita Dutta 👋
+# Hey there, I'm Ishita Dutta 👋
 
 ### Senior Software Engineer | AI & Salesforce Specialist | Cloud Enthusiast
 

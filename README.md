@@ -1,7 +1,7 @@
 
 # Hey there, I'm Ishita Dutta 👋
 
-### Senior Software Engineer | AI & Salesforce Specialist | Cloud Enthusiast
+### Senior AI Enabled Software Developer | AI & Salesforce Specialist | Cloud Enthusiast
 
 Welcome to my GitHub! I'm a Senior Software Developer with hands-on experience in developing AI-based solutions and optimizing Salesforce environments. Passionate about leveraging the latest technologies to solve real-world problems, I thrive on turning innovative ideas into functional and impactful solutions.
 
@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a Senior Software Developer with hands-on experience i
 
 ## 🚀 About Me
 
-I'm currently a Senior Software Developer at Persistent Systems, with expertise in **Salesforce Development (Apex, LWC, Flows)**, **AI-based applications** using tools like **LangChain, RAG**, and **Streamlit**, and cloud deployments on **Azure**. I enjoy working on complex problems and creating streamlined, scalable solutions.
+I'm currently a Senior AI enabled Software Developer at Persistent Systems, with expertise in **Salesforce Development (Apex, LWC, Flows)**, **AI-based applications** using tools like **LangChain, RAG**, and **Streamlit**, and cloud deployments on **Azure**. I enjoy working on complex problems and creating streamlined, scalable solutions.
 
 - 🌱 **Constantly learning** and exploring new domains like **Generative AI** and **Cloud Computing**.
 - 💼 I’ve had the opportunity to contribute to multiple projects ranging from **AI-driven resume analysis** to **Salesforce optimization for global clients**.
@@ -98,11 +98,16 @@ Developed a website that detects depression or suicidal tendencies from social m
 ---
 
 ## 🎓 Certifications
+- **Generative AI for Software Development**
+- **Salesforce Certified AI Associate**
+- **ChatGPT Prompt Engineering for Developers**
+- **LangChain for LLM Application Development**
 - **Google Cybersecurity Professional Certificate**
 - **Salesforce Certified Platform Developer I**
 - **Salesforce Certified Administrator**
+- **Salesforce Certified Platform App Builder**
+- **Salesforce Certified Associate**
 - **Azure Fundamentals (AZ-900)**
-- **ChatGPT Prompt Engineering for Developers**
 
 ---
 

@@ -3,7 +3,7 @@
 
 ### Senior AI Enabled Software Developer | AI & Salesforce Specialist | Cloud Enthusiast
 
-Welcome to my GitHub! I'm a Senior Software Developer with hands-on experience in developing AI-based solutions and optimizing Salesforce environments. Passionate about leveraging the latest technologies to solve real-world problems, I thrive on turning innovative ideas into functional and impactful solutions.
+Welcome to my GitHub! I'm a Senior AI enabled Software Developer with hands-on experience in developing AI-based solutions and optimizing Salesforce environments. Passionate about leveraging the latest technologies to solve real-world problems, I thrive on turning innovative ideas into functional and impactful solutions.
 
 ---
 
